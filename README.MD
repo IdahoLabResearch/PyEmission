@@ -3,7 +3,7 @@ Python Library for Vehicular Emission Estimation (PyEmission)
 
 PyEmission is a Python library for estimation of vehicular emissions and fuel consumption. This tool covers a wide range of light duty motor vehicles including passenger car, SUV, passenger truck, and light commercial truck. The tool only takes second-by-second driving cycle and vehicle characteristics data as inputs and generate results of vehicular emissions (CO2, CO, NOx, and HC) and fuel consumption.
 
-A detailed description of this software methodology can be found in this journal [ARTICLE](https://doi.org/10.1016/j.jclepro.2021.128931).
+A detailed description of this software methodology can be found in this [Journal Article](https://doi.org/10.1016/j.jclepro.2021.128931).
 
  
 ### Other Software
