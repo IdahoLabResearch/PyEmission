@@ -42,3 +42,8 @@ setup(
 
 )
 
+#cd "C://PATH//TO//YOUR//FOLDER"
+#python setup.py sdist
+#pip install twine
+#twine upload dist/*
+
