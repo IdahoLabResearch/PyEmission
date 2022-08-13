@@ -5,6 +5,9 @@ PyEmission is a Python library for estimation of vehicular emissions and fuel co
 
 A detailed description of this software methodology can be found in this [Journal Article](https://doi.org/10.1016/j.jclepro.2021.128931).
 
+# User Manual
+Please check this [user manual](https://github.com/IdahoLabResearch/PyEmission/blob/main/PyEmission%20user%20manual.pdf) to learn how to use this library.
+
  
 ### Other Software
 Idaho National Laboratory is a cutting edge research facility which is a constantly producing high quality research and software. Feel free to take a look at our other software and scientific offerings at:
