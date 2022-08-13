@@ -1,2 +1,2 @@
-include *.pkl
-include *.xlsx
+include pyemission/*.pkl
+include pyemission/*.xlsx
